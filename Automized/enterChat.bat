@@ -1,0 +1,2 @@
+cd ..
+python insert.py
