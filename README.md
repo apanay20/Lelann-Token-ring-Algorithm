@@ -1,5 +1,5 @@
 ## Description
-This is an implementation of the Lelann's token-ring algorithm. The implementation take into account failure of processes, supports the insertion of a new process in the ring and every process can leave the ring at any time.  
+This is an implementation of the Lelann's token-ring algorithm. The implementation take into account failure of processes, supports the insertion of a new process in the ring and every process can leave the ring at any time. Monitor script is not necessary for the algorithm, is used just for printing messages.
 
 ## Algorithm
 
